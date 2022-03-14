@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "name": "mashroom soup",
+      "price": "149 ₴",
+      "url": "./img/soop.jpg",
+      "article": 123,
+      "color": "gray",
+      "id": "1",
+      "isFavorite": false
+    },
+    {
+      "name": "pork steak",
+      "price": "265 ₴",
+      "url": "./img/pork.jpg",
+      "article": 456,
+      "color": "pink",
+      "id": "2",
+      "isFavorite": false
+    },
+    {
+      "name": "peach salad",
+      "price": "179 ₴",
+      "url": "./img/peach_salad.jpg",
+      "article": 789,
+      "color": "orange",
+      "id": "3",
+      "isFavorite": false
+    },
+    {
+      "name": "obaby",
+      "price": "125 ₴",
+      "url": "./img/obaby.jpg",
+      "article": "147",
+      "color": "white",
+      "id": "4",
+      "isFavorite": false
+    },
+    {
+      "name": "Kyiv cake",
+      "price": "215 ₴",
+      "url": "./img/kyivtort.jpg",
+      "article": "258",
+      "color": "brown",
+      "id": "5",
+      "isFavorite": false
+    },
+    {
+      "name": "black-pasta carbonara ",
+      "price": "225 ₴",
+      "url": "./img/carbonara.jpg",
+      "article": "369",
+      "color": "black",
+      "id": "6",
+      "isFavorite": false
+    },
+    {
+      "name": "burrata",
+      "price": "165 ₴",
+      "url": "./img/burratta.jpg",
+      "article": "741",
+      "color": "white",
+      "id": "7",
+      "isFavorite": false
+    },
+    {
+      "name": "bowl",
+      "price": "165 ₴",
+      "url": "./img/bowl.jpg",
+      "article": "852",
+      "color": "green",
+      "id": "8",
+      "isFavorite": false
+    },
+    {
+      "name": "chiken",
+      "price": "320 ₴",
+      "url": "./img/chiken.jpg",
+      "article": "963",
+      "color": "gold",
+      "id": "9",
+      "isFavorite": false
+    },
+    {
+      "name": "melba",
+      "price": "150 ₴",
+      "url": "./img/melba.jpg",
+      "article": "951",
+      "color": "red",
+      "id": "10",
+      "isFavorite": false
+    }
+  ]
+}

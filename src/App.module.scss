@@ -1,0 +1,49 @@
+.app {
+  
+  font-family: sans-serif;
+  width: 100%;
+  background-image: url(./f1.jpg);
+  background-size: cover;
+  
+ 
+.error {
+  line-height: 16px;
+  min-height: 16px;
+  width: 100%;
+  color: #b90e0a;
+  text-align: left;
+  font-size: 13px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}  
+  
+
+  section {
+    margin-top: 50px;
+    box-sizing: border-box;
+    padding: 0 24px;
+    width: 100%;
+    min-height: 620px;
+  }
+
+  h1, h2, h3 {
+    width: 100%;
+    text-align: center;
+    padding: 30px 0 20px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  ul {
+    list-style: none;
+    display: flex;
+  }
+
+  li {
+    margin: 10px;
+  }
+}
+
+
