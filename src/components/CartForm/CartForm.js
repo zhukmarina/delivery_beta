@@ -5,8 +5,7 @@ import CustomInput from '../CustomInput';
 import {Button} from "@mui/material";
 import * as yup from "yup";
 import { removeFromLS } from '../../utils/localStorage';
-import { useSelector, useDispatch } from 'react-redux';
-import { setIsOpenModal } from '../../appStore/actionCreators/modalActionCreator';
+
 
 const CartForm = ()=>{
     

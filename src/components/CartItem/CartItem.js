@@ -7,7 +7,7 @@ import { setIsOpenModal, setModalParams } from '../../appStore/actionCreators/mo
 
 
 const CartItem = (props) => {
-  const {name, url, price, count, id,isFavorite } = props;
+  const {name, price, count, id, } = props;
   
   const dispatch = useDispatch();
   const handleDelete = () => {
