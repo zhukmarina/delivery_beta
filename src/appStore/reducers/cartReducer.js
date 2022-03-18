@@ -1,4 +1,4 @@
-import { getFromLS, removeFromLS, saveToLS } from "../../utils/localStorage";
+import { getFromLS, saveToLS } from "../../utils/localStorage";
 import { ADD_ITEM, REMOVE_ITEM } from "../actions/cartActions";
 
 const initialValues = {
